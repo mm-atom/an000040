@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000040",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "运行命令",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
